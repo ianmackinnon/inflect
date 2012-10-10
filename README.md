@@ -1,4 +1,3 @@
-inflect
-=======
+# inflect
 
 Human language inflection data
